@@ -32,6 +32,6 @@
 
 <br clear="both">
 
-<img src="=https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fk1y86d9ruxp01.gif" alt="Boreal Valley" />
+<img src="https://media.tenor.com/8yWx1Zf8aQMAAAAd/erdtree-elden-ring.gif" alt="Erdtree" />
 
 ###
