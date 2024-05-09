@@ -2,7 +2,7 @@
   .ld-text text {
     text-anchor: middle;
     dominant-baseline: middle;
-    font-size: 63px;
+    font-size: 30px;
     opacity: 0;
     user-select: none;
     pointer-events: none;
