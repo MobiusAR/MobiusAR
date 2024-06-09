@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="Style.css">
+</head>
+<body>
 <p align="left">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Consolas&duration=2000&pause=1000&color=F71D1D&background=39FFDF00&multiline=true&random=false&width=435&height=100&lines=Hi+my+name+is+Aalhad+Rangnekar;I+am+a+self+taught+front-end+developer;Currently+working+with+Outsystems" alt="Typing SVG" /></a>
 </p>
@@ -66,5 +72,6 @@
   <a href="https://www.linkedin.com/in/aalhadr/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 	<img width="12"/>
 </div>
+</body>
 
 
