@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link rel="stylesheet" href="Style.css">
 </head>
 <body>
+	
 <p align="left">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Consolas&duration=2000&pause=1000&color=F71D1D&background=39FFDF00&multiline=true&random=false&width=435&height=100&lines=Hi+my+name+is+Aalhad+Rangnekar;I+am+a+self+taught+front-end+developer;Currently+working+with+Outsystems" alt="Typing SVG" /></a>
 </p>
@@ -48,7 +48,7 @@
             </li>
         </ul>
     </div>
-
+<div class ="container">
 <h1>Languages and Tools</h1>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -63,6 +63,28 @@
   <img width="12"/>
   <img src="https://svgur.com/i/15pt.svg" height="30" alt="outsystems logo" />
 </div>
+</div>
+
+<div>
+	<h1>My certificates</h1>
+	<div align="center">
+		<h6><img src="https://www.outsystems.com/certifications/Certifications_CW/_image.aspx/3UucD-ueG3h8prP4cuSrheCiu3DVWKGOn0LfjehV3EM=/reactive-web-developer-associate-11%201.png" height="60" alt="Reactive Dev" /></h6>
+  		Associate Reactive Developer
+	</div>
+		<div align="center">
+		<h6><img src="https://www.outsystems.com/certifications/Certifications_CW/_image.aspx/3UucD-ueG3h8prP4cuSrheIfl6dt9mlkXf8BLdXK-xs=/architecture-specialist-11.png" height="60" alt="Architecture Specialist" /></h6>
+  		Architecture Specialist
+	</div>
+		<div align="center">
+		<h6><img src="https://www.outsystems.com/certifications/Certifications_CW/_image.aspx/3UucD-ueG3h8prP4cuSrhXspL_NZkfW9JpDoTk-SqnY=/mobile-developer-specialist.png" height="60" alt="Mobile Dev" /></h6>
+  		Mobile Developer Specialist
+	</div>
+		<div align="center">
+		<h6><img src="https://www.outsystems.com/certifications/Certifications_CW/_image.aspx/3UucD-ueG3h8prP4cuSrheeOaDnXu_SnlwOOie-FkEg=/reactive-web-developer-specialist.png" height="60" alt="Web Dev" /></h6>
+  		Web Developer Specialist
+	</div>
+</div>
+
 
 
 <h1>Contact Me</h1>
