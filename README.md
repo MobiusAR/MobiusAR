@@ -66,23 +66,8 @@
 </div>
 
 <div>
-	<h1>My certificates</h1>
-	<div align="center">
-		<h6><img src="https://www.outsystems.com/certifications/Certifications_CW/_image.aspx/3UucD-ueG3h8prP4cuSrheCiu3DVWKGOn0LfjehV3EM=/reactive-web-developer-associate-11%201.png" height="60" alt="Reactive Dev" /></h6>
-  		Associate Reactive Developer
-	</div>
-		<div align="center">
-		<h6><img src="https://www.outsystems.com/certifications/Certifications_CW/_image.aspx/3UucD-ueG3h8prP4cuSrheIfl6dt9mlkXf8BLdXK-xs=/architecture-specialist-11.png" height="60" alt="Architecture Specialist" /></h6>
-  		Architecture Specialist
-	</div>
-		<div align="center">
-		<h6><img src="https://www.outsystems.com/certifications/Certifications_CW/_image.aspx/3UucD-ueG3h8prP4cuSrhXspL_NZkfW9JpDoTk-SqnY=/mobile-developer-specialist.png" height="60" alt="Mobile Dev" /></h6>
-  		Mobile Developer Specialist
-	</div>
-		<div align="center">
-		<h6><img src="https://www.outsystems.com/certifications/Certifications_CW/_image.aspx/3UucD-ueG3h8prP4cuSrheeOaDnXu_SnlwOOie-FkEg=/reactive-web-developer-specialist.png" height="60" alt="Web Dev" /></h6>
-  		Web Developer Specialist
-	</div>
+	<iframe src="Aalhad R_OutsystemsCerts.pdf" width="800" height="600"></iframe>
+
 </div>
 
 
