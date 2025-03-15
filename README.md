@@ -61,13 +61,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12"/>
-  <img src="https://svgur.com/i/15pt.svg" height="30" alt="outsystems logo" />
+  <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" height="30" alt="csharp logo"  />
+  <img width="12"/>
 </div>
 </div>
 
 <div>
-	<iframe src="Aalhad R_OutsystemsCerts.pdf" width="800" height="600"></iframe>
-
+	<img src="OutsystemsCerts.png" alt="outsystems certs" />
 </div>
 
 
